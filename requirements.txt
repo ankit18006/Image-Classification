@@ -1,8 +1,0 @@
-streamlit
-flax
-jax
-jaxlib
-optax
-tensorflow
-pillow
-numpy
